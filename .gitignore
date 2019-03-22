@@ -1,0 +1,8 @@
+#node modules
+node_modules
+
+#workspace configurations
+*.code-workspace
+
+#redis persistence
+dump.rdb
